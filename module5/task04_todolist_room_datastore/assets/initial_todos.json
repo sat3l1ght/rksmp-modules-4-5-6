@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Подготовить отчёт по Модулю 4",
+    "description": "Оформить 14 практических заданий",
+    "isCompleted": true
+  },
+  {
+    "title": "Настроить Room и DataStore",
+    "description": "Реализовать разовый импорт из JSON",
+    "isCompleted": false
+  },
+  {
+    "title": "Проверить Ktor-сервер",
+    "description": "Подключить PostgreSQL на Neon.tech",
+    "isCompleted": false
+  }
+]

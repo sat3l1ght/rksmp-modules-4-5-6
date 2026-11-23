@@ -1,0 +1,422 @@
+[
+  {
+    "id": 100001,
+    "full_name": "google/compose-samples",
+    "description": "Учебный или промышленный репозиторий compose-samples на языке Java",
+    "stargazers_count": 1291,
+    "language": "Java"
+  },
+  {
+    "id": 100002,
+    "full_name": "square/retrofit",
+    "description": "Учебный или промышленный репозиторий retrofit на языке Python",
+    "stargazers_count": 2082,
+    "language": "Python"
+  },
+  {
+    "id": 100003,
+    "full_name": "ktorio/okhttp",
+    "description": "Учебный или промышленный репозиторий okhttp на языке TypeScript",
+    "stargazers_count": 2873,
+    "language": "TypeScript"
+  },
+  {
+    "id": 100004,
+    "full_name": "InsertKoinIO/ktor",
+    "description": "Учебный или промышленный репозиторий ktor на языке Go",
+    "stargazers_count": 3664,
+    "language": "Go"
+  },
+  {
+    "id": 100005,
+    "full_name": "coil-kt/koin",
+    "description": "Учебный или промышленный репозиторий koin на языке Rust",
+    "stargazers_count": 4455,
+    "language": "Rust"
+  },
+  {
+    "id": 100006,
+    "full_name": "Kotlin/coil",
+    "description": "Учебный или промышленный репозиторий coil на языке C++",
+    "stargazers_count": 5246,
+    "language": "C++"
+  },
+  {
+    "id": 100007,
+    "full_name": "android/kotlinx.coroutines",
+    "description": "Учебный или промышленный репозиторий kotlinx.coroutines на языке Kotlin",
+    "stargazers_count": 6037,
+    "language": "Kotlin"
+  },
+  {
+    "id": 100008,
+    "full_name": "JetBrains/kotlinx.serialization",
+    "description": "Учебный или промышленный репозиторий kotlinx.serialization на языке Java",
+    "stargazers_count": 6828,
+    "language": "Java"
+  },
+  {
+    "id": 100009,
+    "full_name": "google/room-samples",
+    "description": "Учебный или промышленный репозиторий room-samples на языке Python",
+    "stargazers_count": 7619,
+    "language": "Python"
+  },
+  {
+    "id": 100010,
+    "full_name": "square/workmanager-demo",
+    "description": "Учебный или промышленный репозиторий workmanager-demo на языке TypeScript",
+    "stargazers_count": 8410,
+    "language": "TypeScript"
+  },
+  {
+    "id": 100011,
+    "full_name": "ktorio/movie-directory",
+    "description": "Учебный или промышленный репозиторий movie-directory на языке Go",
+    "stargazers_count": 9201,
+    "language": "Go"
+  },
+  {
+    "id": 100012,
+    "full_name": "InsertKoinIO/android-architecture",
+    "description": "Учебный или промышленный репозиторий android-architecture на языке Rust",
+    "stargazers_count": 9992,
+    "language": "Rust"
+  },
+  {
+    "id": 100013,
+    "full_name": "coil-kt/paging-samples",
+    "description": "Учебный или промышленный репозиторий paging-samples на языке C++",
+    "stargazers_count": 10783,
+    "language": "C++"
+  },
+  {
+    "id": 100014,
+    "full_name": "Kotlin/datastore-guide",
+    "description": "Учебный или промышленный репозиторий datastore-guide на языке Kotlin",
+    "stargazers_count": 11574,
+    "language": "Kotlin"
+  },
+  {
+    "id": 100015,
+    "full_name": "android/navigation-compose",
+    "description": "Учебный или промышленный репозиторий navigation-compose на языке Java",
+    "stargazers_count": 12365,
+    "language": "Java"
+  },
+  {
+    "id": 100016,
+    "full_name": "JetBrains/hilt-samples",
+    "description": "Учебный или промышленный репозиторий hilt-samples на языке Python",
+    "stargazers_count": 13156,
+    "language": "Python"
+  },
+  {
+    "id": 100017,
+    "full_name": "google/material-components",
+    "description": "Учебный или промышленный репозиторий material-components на языке TypeScript",
+    "stargazers_count": 13947,
+    "language": "TypeScript"
+  },
+  {
+    "id": 100018,
+    "full_name": "square/kotlin",
+    "description": "Учебный или промышленный репозиторий kotlin на языке Go",
+    "stargazers_count": 14738,
+    "language": "Go"
+  },
+  {
+    "id": 100019,
+    "full_name": "ktorio/compose-samples-19",
+    "description": "Учебный или промышленный репозиторий compose-samples-19 на языке Rust",
+    "stargazers_count": 15529,
+    "language": "Rust"
+  },
+  {
+    "id": 100020,
+    "full_name": "InsertKoinIO/retrofit-20",
+    "description": "Учебный или промышленный репозиторий retrofit-20 на языке C++",
+    "stargazers_count": 16320,
+    "language": "C++"
+  },
+  {
+    "id": 100021,
+    "full_name": "coil-kt/okhttp-21",
+    "description": "Учебный или промышленный репозиторий okhttp-21 на языке Kotlin",
+    "stargazers_count": 17111,
+    "language": "Kotlin"
+  },
+  {
+    "id": 100022,
+    "full_name": "Kotlin/ktor-22",
+    "description": "Учебный или промышленный репозиторий ktor-22 на языке Java",
+    "stargazers_count": 17902,
+    "language": "Java"
+  },
+  {
+    "id": 100023,
+    "full_name": "android/koin-23",
+    "description": "Учебный или промышленный репозиторий koin-23 на языке Python",
+    "stargazers_count": 18693,
+    "language": "Python"
+  },
+  {
+    "id": 100024,
+    "full_name": "JetBrains/coil-24",
+    "description": "Учебный или промышленный репозиторий coil-24 на языке TypeScript",
+    "stargazers_count": 19484,
+    "language": "TypeScript"
+  },
+  {
+    "id": 100025,
+    "full_name": "google/kotlinx.coroutines-25",
+    "description": "Учебный или промышленный репозиторий kotlinx.coroutines-25 на языке Go",
+    "stargazers_count": 20275,
+    "language": "Go"
+  },
+  {
+    "id": 100026,
+    "full_name": "square/kotlinx.serialization-26",
+    "description": "Учебный или промышленный репозиторий kotlinx.serialization-26 на языке Rust",
+    "stargazers_count": 21066,
+    "language": "Rust"
+  },
+  {
+    "id": 100027,
+    "full_name": "ktorio/room-samples-27",
+    "description": "Учебный или промышленный репозиторий room-samples-27 на языке C++",
+    "stargazers_count": 21857,
+    "language": "C++"
+  },
+  {
+    "id": 100028,
+    "full_name": "InsertKoinIO/workmanager-demo-28",
+    "description": "Учебный или промышленный репозиторий workmanager-demo-28 на языке Kotlin",
+    "stargazers_count": 22648,
+    "language": "Kotlin"
+  },
+  {
+    "id": 100029,
+    "full_name": "coil-kt/movie-directory-29",
+    "description": "Учебный или промышленный репозиторий movie-directory-29 на языке Java",
+    "stargazers_count": 23439,
+    "language": "Java"
+  },
+  {
+    "id": 100030,
+    "full_name": "Kotlin/android-architecture-30",
+    "description": "Учебный или промышленный репозиторий android-architecture-30 на языке Python",
+    "stargazers_count": 24230,
+    "language": "Python"
+  },
+  {
+    "id": 100031,
+    "full_name": "android/paging-samples-31",
+    "description": "Учебный или промышленный репозиторий paging-samples-31 на языке TypeScript",
+    "stargazers_count": 25021,
+    "language": "TypeScript"
+  },
+  {
+    "id": 100032,
+    "full_name": "JetBrains/datastore-guide-32",
+    "description": "Учебный или промышленный репозиторий datastore-guide-32 на языке Go",
+    "stargazers_count": 25812,
+    "language": "Go"
+  },
+  {
+    "id": 100033,
+    "full_name": "google/navigation-compose-33",
+    "description": "Учебный или промышленный репозиторий navigation-compose-33 на языке Rust",
+    "stargazers_count": 26603,
+    "language": "Rust"
+  },
+  {
+    "id": 100034,
+    "full_name": "square/hilt-samples-34",
+    "description": "Учебный или промышленный репозиторий hilt-samples-34 на языке C++",
+    "stargazers_count": 27394,
+    "language": "C++"
+  },
+  {
+    "id": 100035,
+    "full_name": "ktorio/material-components-35",
+    "description": "Учебный или промышленный репозиторий material-components-35 на языке Kotlin",
+    "stargazers_count": 28185,
+    "language": "Kotlin"
+  },
+  {
+    "id": 100036,
+    "full_name": "InsertKoinIO/kotlin-36",
+    "description": "Учебный или промышленный репозиторий kotlin-36 на языке Java",
+    "stargazers_count": 28976,
+    "language": "Java"
+  },
+  {
+    "id": 100037,
+    "full_name": "coil-kt/compose-samples-37",
+    "description": "Учебный или промышленный репозиторий compose-samples-37 на языке Python",
+    "stargazers_count": 29767,
+    "language": "Python"
+  },
+  {
+    "id": 100038,
+    "full_name": "Kotlin/retrofit-38",
+    "description": "Учебный или промышленный репозиторий retrofit-38 на языке TypeScript",
+    "stargazers_count": 30558,
+    "language": "TypeScript"
+  },
+  {
+    "id": 100039,
+    "full_name": "android/okhttp-39",
+    "description": "Учебный или промышленный репозиторий okhttp-39 на языке Go",
+    "stargazers_count": 31349,
+    "language": "Go"
+  },
+  {
+    "id": 100040,
+    "full_name": "JetBrains/ktor-40",
+    "description": "Учебный или промышленный репозиторий ktor-40 на языке Rust",
+    "stargazers_count": 32140,
+    "language": "Rust"
+  },
+  {
+    "id": 100041,
+    "full_name": "google/koin-41",
+    "description": "Учебный или промышленный репозиторий koin-41 на языке C++",
+    "stargazers_count": 32931,
+    "language": "C++"
+  },
+  {
+    "id": 100042,
+    "full_name": "square/coil-42",
+    "description": "Учебный или промышленный репозиторий coil-42 на языке Kotlin",
+    "stargazers_count": 33722,
+    "language": "Kotlin"
+  },
+  {
+    "id": 100043,
+    "full_name": "ktorio/kotlinx.coroutines-43",
+    "description": "Учебный или промышленный репозиторий kotlinx.coroutines-43 на языке Java",
+    "stargazers_count": 34513,
+    "language": "Java"
+  },
+  {
+    "id": 100044,
+    "full_name": "InsertKoinIO/kotlinx.serialization-44",
+    "description": "Учебный или промышленный репозиторий kotlinx.serialization-44 на языке Python",
+    "stargazers_count": 35304,
+    "language": "Python"
+  },
+  {
+    "id": 100045,
+    "full_name": "coil-kt/room-samples-45",
+    "description": "Учебный или промышленный репозиторий room-samples-45 на языке TypeScript",
+    "stargazers_count": 36095,
+    "language": "TypeScript"
+  },
+  {
+    "id": 100046,
+    "full_name": "Kotlin/workmanager-demo-46",
+    "description": "Учебный или промышленный репозиторий workmanager-demo-46 на языке Go",
+    "stargazers_count": 36886,
+    "language": "Go"
+  },
+  {
+    "id": 100047,
+    "full_name": "android/movie-directory-47",
+    "description": "Учебный или промышленный репозиторий movie-directory-47 на языке Rust",
+    "stargazers_count": 37677,
+    "language": "Rust"
+  },
+  {
+    "id": 100048,
+    "full_name": "JetBrains/android-architecture-48",
+    "description": "Учебный или промышленный репозиторий android-architecture-48 на языке C++",
+    "stargazers_count": 38468,
+    "language": "C++"
+  },
+  {
+    "id": 100049,
+    "full_name": "google/paging-samples-49",
+    "description": "Учебный или промышленный репозиторий paging-samples-49 на языке Kotlin",
+    "stargazers_count": 39259,
+    "language": "Kotlin"
+  },
+  {
+    "id": 100050,
+    "full_name": "square/datastore-guide-50",
+    "description": "Учебный или промышленный репозиторий datastore-guide-50 на языке Java",
+    "stargazers_count": 40050,
+    "language": "Java"
+  },
+  {
+    "id": 100051,
+    "full_name": "ktorio/navigation-compose-51",
+    "description": "Учебный или промышленный репозиторий navigation-compose-51 на языке Python",
+    "stargazers_count": 40841,
+    "language": "Python"
+  },
+  {
+    "id": 100052,
+    "full_name": "InsertKoinIO/hilt-samples-52",
+    "description": "Учебный или промышленный репозиторий hilt-samples-52 на языке TypeScript",
+    "stargazers_count": 41632,
+    "language": "TypeScript"
+  },
+  {
+    "id": 100053,
+    "full_name": "coil-kt/material-components-53",
+    "description": "Учебный или промышленный репозиторий material-components-53 на языке Go",
+    "stargazers_count": 42423,
+    "language": "Go"
+  },
+  {
+    "id": 100054,
+    "full_name": "Kotlin/kotlin-54",
+    "description": "Учебный или промышленный репозиторий kotlin-54 на языке Rust",
+    "stargazers_count": 43214,
+    "language": "Rust"
+  },
+  {
+    "id": 100055,
+    "full_name": "android/compose-samples-55",
+    "description": "Учебный или промышленный репозиторий compose-samples-55 на языке C++",
+    "stargazers_count": 44005,
+    "language": "C++"
+  },
+  {
+    "id": 100056,
+    "full_name": "JetBrains/retrofit-56",
+    "description": "Учебный или промышленный репозиторий retrofit-56 на языке Kotlin",
+    "stargazers_count": 44796,
+    "language": "Kotlin"
+  },
+  {
+    "id": 100057,
+    "full_name": "google/okhttp-57",
+    "description": "Учебный или промышленный репозиторий okhttp-57 на языке Java",
+    "stargazers_count": 45587,
+    "language": "Java"
+  },
+  {
+    "id": 100058,
+    "full_name": "square/ktor-58",
+    "description": "Учебный или промышленный репозиторий ktor-58 на языке Python",
+    "stargazers_count": 46378,
+    "language": "Python"
+  },
+  {
+    "id": 100059,
+    "full_name": "ktorio/koin-59",
+    "description": "Учебный или промышленный репозиторий koin-59 на языке TypeScript",
+    "stargazers_count": 47169,
+    "language": "TypeScript"
+  },
+  {
+    "id": 100060,
+    "full_name": "InsertKoinIO/coil-60",
+    "description": "Учебный или промышленный репозиторий coil-60 на языке Go",
+    "stargazers_count": 47960,
+    "language": "Go"
+  }
+]

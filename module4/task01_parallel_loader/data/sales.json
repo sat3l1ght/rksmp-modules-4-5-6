@@ -1,0 +1,20 @@
+{
+  "today": "2026-11-23",
+  "items": [
+    {
+      "product": "Coffee",
+      "qty": 42,
+      "revenue": 1680
+    },
+    {
+      "product": "Tea",
+      "qty": 19,
+      "revenue": 475
+    },
+    {
+      "product": "Croissant",
+      "qty": 27,
+      "revenue": 810
+    }
+  ]
+}
